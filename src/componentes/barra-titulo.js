@@ -10,19 +10,19 @@ const template = /*html*/`
     <div class="w3-dropdown-hover w3-right">
         <button class="w3-button  w3-light-grey"><i class="fa fa-th"></i></button>
         <div class="w3-dropdown-content w3-card-4 w3-round" style="right:10px;">
-            <div class="w3-center w3-padding">
-                <a href="https://saulsalazarmendez.github.io/ejemplos/ide">
-                    <i class="fa fa-html5 w3-text-blue w3-xxlarge"></i>
-                    <h5>Ide</h5>
-                </a>
-            </div>
+            <rutas-apps></rutas-apps>
         </div>
     </div>        
     <router-link class="w3-bar-item w3-right w3-button" to="/resumen">Resumen</router-link>
 </div>
 `;
 
+import RutasApps from './rutas-apps.js';
+
 export default {
     props: ['titulo'],
+    components: {
+        RutasApps
+    },
     template: template
 }
