@@ -5,6 +5,7 @@ const template = /*html*/`
         <router-link :class="getClase('experiencia')" to="/experiencia">Experiencia</router-link>
         <router-link :class="getClase('estudios')" to="/estudios">Estudios</router-link>
         <router-link :class="getClase('resumen')" to="/resumen">Resumen</router-link>
+        <router-link :class="getClase('contacto')" to="/contacto">Contacto</router-link>
         <router-link :class="getClase('portafolio')" to="/portafolio">Portafolio</router-link>
     </div>
 
@@ -13,6 +14,7 @@ const template = /*html*/`
         <router-link :class="getClase('experiencia')" to="/experiencia">Experiencia</router-link>
         <router-link :class="getClase('estudios')" to="/estudios">Estudios</router-link>
         <router-link :class="getClase('resumen')" to="/resumen">Resumen</router-link>
+        <router-link :class="getClase('contacto')" to="/contacto">Contacto</router-link>
         <router-link :class="getClase('portafolio')" to="/portafolio">Portafolio</router-link>
     </div>
 </div>

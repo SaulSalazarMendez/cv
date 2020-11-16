@@ -4,8 +4,10 @@ import Experiencia from './componentes/experiencia.js';
 import Portafolio from './componentes/portafolio.js';
 import Estudios from './componentes/estudios.js';
 import Inicio from './componentes/inicio.js';
+import Contacto from './componentes/contacto.js';
 
 const routes = [
+  { path: '/contacto', component: Contacto },
   { path: '/skills', component: Skills },
   { path: '/resumen', component: Resumen },
   { path: '/experiencia', component: Experiencia },
