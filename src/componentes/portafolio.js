@@ -28,7 +28,7 @@ const template = /*html*/`
                             <video id="video" propiedades="" src="./video/ejemplo-edicion.webm" controls="controls" class="w3-col" contenido-componente="">        
                             </video>
                             <div class="w3-container">
-                                <h2>W3Studio - Ide</h2>
+                                <h2>W3Studio - IDE</h2>
                                 <div class="w3-margin-bottom">Controla el código HTML, CSS y javascript directamente en el ide de W3Studio. Edita los estilos visuales de manera sencilla y exporta el contenido a web componente. Utiliza la interfaz de escritorio web.</div>
                             </div>                    
                         </div>
@@ -51,7 +51,7 @@ const template = /*html*/`
                             </video>
                             <div class="w3-container">
                                 <h2>Simple paint</h2>
-                                <div class="w3-margin-bottom">Ejemplo de uso del api canvas para dibujar, esto es para probar que hay alternativas de uso a svg o a los divs  al momento de seleccionar imagenes y moverlas.</div>
+                                <div class="w3-margin-bottom">Ejemplo de uso del api canvas para dibujar, esto es para probar que hay alternativas de uso a svg o a los divs  al momento de seleccionar imágenes y moverlas.</div>
                             </div>       
                         </div>
                     </div>
