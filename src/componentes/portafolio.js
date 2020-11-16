@@ -1,5 +1,6 @@
 import BarraTitulo from './barra-titulo.js';
 import BarraMenu from './barra-menus.js';
+import { setTituloPagina } from './util.js';
 
 const template = /*html*/`
 <div>
@@ -69,5 +70,8 @@ export default {
     components: {
         BarraTitulo,
         BarraMenu
+    },
+    mounted() {
+        setTituloPagina('Saúl CV - Portafolio');
     }
 }

@@ -29,11 +29,13 @@ const template = /*html*/`
 `;
 
 import RutasApps from './rutas-apps.js';
+import { setTituloPagina } from './util.js';
 
 export default {    
     template: template,
     mounted() {
         this.addListeners();
+        setTituloPagina('Saúl CV - Inicio');
     },
     components: {
         RutasApps
