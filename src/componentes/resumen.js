@@ -27,7 +27,7 @@ const template = /*html*/`
                 <div><span style="color: blue;">Portafolio</span></div>
                 <div><router-link style="color: green;" to="/portafolio">/portafolio
                     </router-link></div>
-                <div><span>W3Studio - Escritorio Iterface web que simula un escriotrio virtual, el proposito de esta interface es dar una opción más al usuario para su aplicación web.</span></div>
+                <div><span>W3Studio - Escritorio Iterface web que simula un escriotrio virtual, el propósito de esta interface es dar una opción más al usuario para su aplicación web.</span></div>
             </div>
         </div>
     </div>
