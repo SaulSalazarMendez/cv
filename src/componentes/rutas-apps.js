@@ -5,7 +5,7 @@ const template = /*html*/`
         <span class="w3-button w3-circle w3-blue">
             <i class="fa fa-html5"></i>
         </span>
-        <h5 style="font-size: 14px;">Ide</h5>
+        <h5 style="font-size: 14px;">IDE</h5>
     </a>
     </div>
     <div class="w3-center w3-padding w3-col s6">
