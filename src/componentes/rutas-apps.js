@@ -24,6 +24,15 @@ const template = /*html*/`
         <h5 style="font-size: 14px;">Simulación</h5>
     </a>
     </div>
+
+    <div class="w3-center w3-padding w3-col s6">
+    <a href="./CV.pdf" target="_blank">
+        <span class="w3-button w3-circle w3-blue">
+            <i class="fa fa-file-pdf-o"></i>
+        </span>
+        <h5 style="font-size: 14px;">CV</h5>
+    </a>
+    </div>
 </div>
 `;
 
