@@ -21,6 +21,10 @@ const template = /*html*/`
                 <div><router-link style="color: green;" to="/experiencia">/experiencia</router-link></div>
                 <div><span>Front End Developer(Angular) / Evomatik Oct 2017 - Mar 2019 Encargado del desarrollo y mantenimiento del proyecto de SIGI del estado del México(SEAGeD® Fiscalía).</span></div>
                 <div><span><br></span></div>
+                <div><span style="color: blue;">Contacto</span></div>
+                <div><router-link style="color: green;" to="/contacto">/contacto</router-link></div>
+                <div><span>Ve el perfil de Saúl Salazar en LinkedIn. Cominicate a través de email o WhatsApp. O explora los pens en codepen. </span></div>
+                <div><span><br></span></div>
                 <div><span style="color: blue;">Estudios</span></div>
                 <div><router-link style="color: green;" to="/estudios">/estudios</router-link></div>
                 <div><span>Licenciado en Informática en la UV 2012 - 2016 El programa académico de la Licenciatura en Informática de la Universidad Veracruzana.</span></div>
