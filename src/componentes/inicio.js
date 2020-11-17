@@ -13,7 +13,7 @@ const template = /*html*/`
 
         <div class="w3-col espacio s2 m2 l2" propiedades="" espacio-componente=""></div>
         <div class="w3-col w3-center s8 m8 l8" propiedades="" contenido-componente="" style="margin-top: 10em;">
-            <img src="./saul.png" class="" propiedades="" style="width: 12em;">
+            <img src="./img/saul.png" class="" propiedades="" style="width: 12em;">
         </div>
     </div>    
     <div propiedades="" class="w3-row w3-margin-top">

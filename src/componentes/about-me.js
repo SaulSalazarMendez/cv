@@ -1,9 +1,9 @@
 const template = /*html*/`
 <div>
     <div class="w3-row">    
-    <img class="w3-col s4 w3-padding" src="./avatar.jpg" alt="Saúl">
-    <img class="w3-col s8 w3-padding" src="./gto.jpg" alt="Saúl">
-    <img class="w3-col s12 w3-padding" src="./ver.jpg" alt="Saúl">
+    <img class="w3-col s4 w3-padding" src="./img/avatar.jpg" alt="Saúl">
+    <img class="w3-col s8 w3-padding" src="./img/gto.jpg" alt="Saúl">
+    <img class="w3-col s12 w3-padding" src="./img/ver.jpg" alt="Saúl">
     </div>
     <div class="w3-padding">
     <h3>Saúl Salazar Méndez</h3>

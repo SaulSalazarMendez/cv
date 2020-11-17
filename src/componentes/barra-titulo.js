@@ -1,7 +1,7 @@
 const template = /*html*/`
 <div class="w3-bar w3-light-grey">
     <router-link class="w3-bar-item" to="/">
-        <img src="./solosaul.png" style="width: 4em;">
+        <img src="./img/solosaul.png" style="width: 4em;">
     </router-link>
     <div class="w3-bar-item" id="span-buscar" style="margin-left: 10%;">            
         <input id="buscar" :value="titulo">

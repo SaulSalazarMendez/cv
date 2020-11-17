@@ -16,7 +16,7 @@ const template = /*html*/`
                 <div class="w3-row-padding">
                     <div class="w3-col s12 w3-padding">
                         <div class="w3-card-4">
-                            <img src="./ide.png" style="width: 100%;">
+                            <img src="./img/ide.png" style="width: 100%;">
                             <div class="w3-container">
                                 <h2>W3Studio - Escritorio</h2>
                                 <div class="w3-margin-bottom"><p>Iterface web que simula un escriotrio virtual, el proposito de esta interface es dar una opción más al usuario para su aplicación web.</p></div>
