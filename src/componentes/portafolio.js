@@ -40,7 +40,14 @@ const template = /*html*/`
                             </video>
                             <div class="w3-container">
                                 <h2>Simulación</h2>
-                                <div class="w3-margin-bottom">Esta simulación muestra el esparcimiento de una enfermedad en un lote de plantas con probabilidad p de contangio</div>
+                                <div class="w3-margin-bottom">
+                                <p>Esta simulación muestra el esparcimiento de una enfermedad en un lote de plantas de maguey con probabilidad p de contangio.</p> 
+                                <p>Este proyecto se utilzo en Cimat para dar respuesta a los productores de maguey de cual era la forma mas adecuada de tomar muestras para saber si un lote estaba contagiado.</p>
+                                <p>Se inicia con un lote sano donde se cree que hay plantas enfermas. Se agrega donde se cree que estan las plantas enfremas (puntos verdes) y se inicia la simulación. El tiempo de contagio se representa con la transicion de color de azul a rojo.
+                                Si esta en cerca de azul quiere decir que se contagio al inicio del tiempo y en rojo al finalizar el tiempo.</p>
+                                <p>La conclusión es que dada la forma de espación que tiene la enfermedad en el lote, las muestras deben ser en forma de circulos. Si se encuentra alguna planta enferma se descatara TODO el lote.</p>
+                                
+                                </div>
                             </div>       
                         </div>
                     </div>
@@ -51,7 +58,11 @@ const template = /*html*/`
                             </video>
                             <div class="w3-container">
                                 <h2>Simple paint</h2>
-                                <div class="w3-margin-bottom">Ejemplo de uso del api canvas para dibujar, esto es para probar que hay alternativas de uso a svg o a los divs  al momento de seleccionar imágenes y moverlas.</div>
+                                <div class="w3-margin-bottom">
+                                <p>Ejemplo de uso del api canvas para dibujar, esto es para probar que hay alternativas de uso a 
+                                svg o a los divs  al momento de seleccionar imágenes y moverlas.</p>
+                                <p>Comparando con el dibujado SVG se tiene el dibujo en Canvas es superior y no afecta al performance del explorador.</p>
+                                </div>
                             </div>       
                         </div>
                     </div>
