@@ -1,0 +1,18 @@
+.parrafo{
+    display: flex;
+}
+
+.flex-container > div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    width: 70%;
+}
+
+.img-normal {
+    width: 180px;
+}
+
+.img-activa {
+    width: 100%;
+}
