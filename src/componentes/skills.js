@@ -35,6 +35,17 @@ const template = /*html*/`
                 <div><span class=""> Vue es una librería de JavaScript de código abierto para la construcción de interfaces de usuario y aplicaciones de una sola página. Fue creado por Evan You. </span></div>
                 <div><span><br></span></div>
 
+                <div><span style="color: blue;">React</span><br></div>
+                <div class="w3-small w3-text-yellow">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>                
+                <div><span class=""> React es una librería de JavaScript creada por Meta para la construcción de interfaces de usuario. </span></div>
+                <div><span><br></span></div>
+
                 <div><span style="color: blue;">Vanilla js</span><br></div>
                 <div class="w3-small w3-text-yellow">
                     <i class="fa fa-star"></i>
