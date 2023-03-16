@@ -13,6 +13,19 @@ const template = /*html*/`
                 <div class="w3-small"><span style="color: rgb(96, 125, 139);">Mas de 10 000 registros</span></div>
                 <div><br></div>
 
+                <div><span style="color: blue;">Desarrollo de ocio(Campeche)</span><br></div>
+                <div class="w3-text-green">
+                    <i class="fa fa-calendar"></i> Feb 2020 - Ene 2023
+                </div>                
+                <div>
+                    <ul>
+                    <li>En mis tiempos libres me dedique hacer diferentes aplicaciones como un escritorio web, una herramienta RAD para crear web componentes, un editor de código estilo codepen y un recetario que calcula las calorias, carbohidratos y proteinas</li>
+                    <li>Cree algunas librerías que necesitaba para las aplicaciones anteriores y las aloje en npm.</li>
+                    </ul> 
+                    
+                    
+                </div><br>
+
                 <div><span style="color: blue;">Front End Developer(Angular) / Evomatik(Veracruz)</span><br></div>
                 <div class="w3-text-green">
                     <i class="fa fa-calendar"></i> Oct 2017 - Mar 2019
