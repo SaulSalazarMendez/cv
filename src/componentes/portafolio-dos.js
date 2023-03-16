@@ -25,7 +25,7 @@ const template = /*html*/`
                 <div><img src="./img/logo.png" style="width: 20px"> <a href="https://saulsalazarmendez.github.io/ejemplos/w3studio/" style="color: green;" target="_blank">w3-ide</a><br></div>
                 <div class="parrafo">
                     <div>
-                    El porposito era crear una aplicación RAD para crear prototipos rápidos usando la w3css y bootstrap pero durante de la pandemia se quedo en stan by.
+                    El proposito era crear una aplicación RAD para crear prototipos rápidos usando la w3css y bootstrap pero durante de la pandemia se quedo en stan by.
                     </div>
                 </div>
                 <video id="video" propiedades="" src="./video/ejemplo-edicion.webm" controls="controls" style="width: 180px;" contenido-componente="">        
