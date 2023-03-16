@@ -7,9 +7,9 @@ const template = /*html*/`
     </div>
     <div class="w3-padding">
     <h3>Saúl Salazar Méndez</h3>
-    <p><i class="fa fa-map-marker"></i> Candelaria Campeche, México</p>    
+    <p><i class="fa fa-map-marker"></i> Xalapa Veracruz, México</p>    
     <h3> Biografia </h3>
-    <p>Soy un desarrolldor de aplicaciones centrado en el front-end. Me interezan las nuevas tenologías web así como el vanilla js.</p>
+    <p>Soy un desarrolldor de aplicaciones centrado en el front-end. Me interesan las nuevas tenologías web así como el vanilla js.</p>
     </div>
 </div>
 `;

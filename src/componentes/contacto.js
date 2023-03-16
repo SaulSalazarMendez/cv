@@ -25,9 +25,7 @@ const template = /*html*/`
                 <div><a href="https://wa.me/522281064455" style="color: green;" target="_blank">2281064455</a><br></div>
                 <div><span>WhatsApp Messenger es una aplicación de mensajería instantánea para teléfonos inteligentes. Utiliza este medio para comunicarte con Saúl.</span></div>
                 <div><span><br></span></div>
-                <div><span style="color: blue;">Codepen</span></div>
-                <div><a href="https://codepen.io/saulsalazarmendez" style="color: green;" target="_blank">https://codepen.io/saulsalazarmendez/</a><br></div>
-                <div><span>CodePen es una comunidad en línea para probar y mostrar fragmentos de código HTML, CSS y JavaScript. Funciona como un editor de código en línea y un entorno de aprendizaje de código abierto. Visita los pens creados por Saúl.</span></div>
+                
             </div>
         </div>        
     </div>
