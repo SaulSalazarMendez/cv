@@ -17,9 +17,9 @@ const template = /*html*/`
     </a>
     </div>
     <div class="w3-center w3-padding w3-col s6">
-    <a href="https://codepen.io/saulsalazarmendez/full/Nmozyz" target="_blank">
+    <a href="https://saulsalazarmendez.github.io/ejemplos/w3studio/" target="_blank">
         <span class="w3-button w3-circle w3-yellow">
-            <i class="fa fa-gear"></i>
+            <i class="fa fa-list-alt "></i>
         </span>
         <h5 style="font-size: 14px;">W3-studio</h5>
     </a>

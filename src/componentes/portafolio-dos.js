@@ -22,7 +22,7 @@ const template = /*html*/`
                 <imagen url="./img/ide.png" />
                 <div><span><br></span></div>
                 <div><span style="color: blue;">w3-ide</span></div>
-                <div><img src="./img/logo.png" style="width: 20px"> <a href="mailto:saul.salazar.mendez@gmail.com?subject=Mail de Pagina Personal" style="color: green;" target="_blank">w3-ide</a><br></div>
+                <div><img src="./img/logo.png" style="width: 20px"> <a href="https://saulsalazarmendez.github.io/ejemplos/w3studio/" style="color: green;" target="_blank">w3-ide</a><br></div>
                 <div class="parrafo">
                     <div>
                     El porposito era crear una aplicación RAD para crear prototipos rápidos usando la w3css y bootstrap pero durante de la pandemia se quedo en stan by.
