@@ -50,7 +50,7 @@ export default {
                 'Hola soy Saúl',
                 'Soy un desarrollador Web',
                 'Experto en tecnologías web',
-                'Vue, Angular, Vanilla js,'
+                'React, Vue, Angular, Vanilla js,'
             ];
             for (let linea of texto) {
                 con = this.animaTexto(linea, con);
