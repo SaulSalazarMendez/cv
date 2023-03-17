@@ -13,7 +13,7 @@ const template = /*html*/`
                 <div class="w3-small"><span style="color: rgb(96, 125, 139);">Mas de 10 000 registros</span></div>
                 <div><br></div>
 
-                <div><span style="color: blue;">Desarrollo de ocio(Campeche)</span><br></div>
+                <div><span style="color: blue;">Desarrollo en pandemia(Campeche)</span><br></div>
                 <div class="w3-text-green">
                     <i class="fa fa-calendar"></i> Feb 2020 - Ene 2023
                 </div>                
