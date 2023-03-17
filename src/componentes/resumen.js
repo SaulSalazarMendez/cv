@@ -2,6 +2,7 @@ import BarraTitulo from './barra-titulo.js';
 import BarraMenu from './barra-menus.js';
 import { setTituloPagina } from './util.js';
 import AboutMe from './about-me.js';
+import AboutMePeque from './about-me-peque.js';
 
 const template = /*html*/`
 <div>
@@ -9,9 +10,12 @@ const template = /*html*/`
     <barra-menu activo="resumen"></barra-menu>    
     <div class="w3-row parrafo w3-margin-top">
         <div class="w3-col espacio s2 m2 l2" propiedades="" espacio-componente=""></div>
-        <div class="w3-col s5 m5 l5" propiedades="" contenido-componente="">
+        <div class="w3-col s8 m6 l5" propiedades="" contenido-componente="">
             <div propiedades="">
                 <div class="w3-small"><span style="color: rgb(96, 125, 139);">Mas de 10 000 registros</span></div>
+                <div class="responsivo-peque">
+                    <about-me-peque></about-me>
+                </div>
                 <div><br></div>
                 <div><span style="color: blue;">Mis skills</span><br></div>
                 <div><router-link to="/skills" style="color: green;">/skills</router-link><br></div>
@@ -35,7 +39,7 @@ const template = /*html*/`
                 <div><span>W3Studio - Escritorio Iterface web que simula un escriotrio virtual, el propósito de esta interface es dar una opción más al usuario para su aplicación web.</span></div>
             </div>
         </div>
-        <div class="w3-col s3" propiedades="" contenido-componente="">
+        <div class="w3-col s3 responsivo" propiedades="" contenido-componente="">
             <about-me></about-me>
         </div>
     </div>
@@ -47,7 +51,8 @@ export default {
     components: {
         BarraTitulo,
         BarraMenu,
-        AboutMe
+        AboutMe,
+        AboutMePeque
     },
     mounted() {
         setTituloPagina('Saúl CV - Resumen');
