@@ -14,7 +14,7 @@ const template = /*html*/`
             <div propiedades="">
                 <div class="w3-small"><span style="color: rgb(96, 125, 139);">Mas de 10 000 registros</span></div>
                 <div class="responsivo-peque">
-                    <about-me-peque></about-me>
+                    <about-me-peque></about-me-peque>
                 </div>
                 <div><br></div>
                 <div><span style="color: blue;">Mis skills</span><br></div>
