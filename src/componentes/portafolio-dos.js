@@ -36,6 +36,11 @@ const template = /*html*/`
                 <div><span>Cree un editor de código para hacer pruebas rápidas de javascript, css y html. Sirve para compartir código y es lo que utilizo para los demos de npm.</span></div>
                 <imagen url="./img/try-codding.png" />
                 <div><span><br></span></div>
+                <div><span style="color: blue;">Recetario</span></div>                
+                <div><img src="./img/fruta.svg" style="width: 20px"> <a href="https://saulsalazarmendez.github.io/ejemplos/recetario/" style="color: green;" target="_blank">Recetario</a><br></div>
+                <div><span>Cree un recetario en React solo para saber algonos datos básicos de la comida. Lo interezante es que aprendi a hacer un tour sobre la aplicación.</span></div>
+                <imagen url="./img/recetas.png" />
+                <div><span><br></span></div>
                 <div><span style="color: blue;">crud-indexeddb</span></div>
                 <div><img src="./img/npm.png" style="width: 20px"> <a href="https://www.npmjs.com/package/crud-indexeddb" style="color: green;" target="_blank">https://www.npmjs.com/package/crud-indexeddb</a><br></div>
                 <div><span>Una librería para usar indexedDb con operaciones crud. Funciona solo en el explorador, esta alojada en npm</span></div>
