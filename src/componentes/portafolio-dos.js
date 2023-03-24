@@ -41,6 +41,10 @@ const template = /*html*/`
                 <div><span>Cree un recetario en React solo para saber algonos datos básicos de la comida. Lo interezante es que aprendi a hacer un tour sobre la aplicación.</span></div>
                 <imagen url="./img/recetas.png" />
                 <div><span><br></span></div>
+                <div><span style="color: blue;">tour-web</span></div>
+                <div><img src="./img/npm.png" style="width: 20px"> <a href="https://www.npmjs.com/package/tour-web" style="color: green;" target="_blank">https://www.npmjs.com/package/crud-indexeddb</a><br></div>
+                <div><span>Una librería para dar tour en aplicaciones web. Esta herramienta la cree por necesidad, dado que las otras librerias dejaban colgado a las app React</span></div>
+                <div><span><br></span></div>
                 <div><span style="color: blue;">crud-indexeddb</span></div>
                 <div><img src="./img/npm.png" style="width: 20px"> <a href="https://www.npmjs.com/package/crud-indexeddb" style="color: green;" target="_blank">https://www.npmjs.com/package/crud-indexeddb</a><br></div>
                 <div><span>Una librería para usar indexedDb con operaciones crud. Funciona solo en el explorador, esta alojada en npm</span></div>
