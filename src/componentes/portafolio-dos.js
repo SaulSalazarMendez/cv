@@ -66,6 +66,6 @@ export default {
         Imagen
     },
     mounted() {
-        setTituloPagina('Saúl CV - Contacto');
+        setTituloPagina('Saúl CV - Portafolio');
     }
 }
