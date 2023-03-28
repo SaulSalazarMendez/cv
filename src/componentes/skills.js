@@ -14,6 +14,54 @@ const template = /*html*/`
                 <div class="w3-small"><span style="color: rgb(96, 125, 139);">Mas de 10 000 registros</span></div>
                 <div><br></div>
 
+                <div><span style="color: blue;">Vanillajs(javascript)</span><br></div>
+                <div class="w3-small w3-text-yellow">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>                    
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>                
+                <div>
+                    <span class="">Vanilla JS es un framework rápido, ligero y multiplataforma para construir aplicaciones JavaScript poderozas e increibles. Si entiendes como funcionan todas las nuevas implementaciones de ecmascript no te veras en la necesidad de emplear ningún framework.</span></div>
+                <div><span><br></span></div>
+
+                <div><span style="color: blue;">TypeScript</span><br></div>
+                <div class="w3-small w3-text-yellow">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>                    
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>                
+                <div>
+                    <span class="">TypeScript extiende la sintaxis de JavaScript, por tanto cualquier código JavaScript existente debería funcionar sin problemas. Está pensado para grandes proyectos, los cuales a través de un compilador de TypeScript se traducen a código JavaScript original.</span></div>
+                <div><span><br></span></div>
+
+                <div><span style="color: blue;">Java</span><br></div>
+                <div class="w3-small w3-text-yellow">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>                    
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>                
+                <div>
+                    <span class="">Java es un lenguaje de propósito general capaz de acometer todo tipo de proyectos y ejecutarse en múltiples plataformas.</span></div>
+                <div><span><br></span></div>
+
+                <div><span style="color: blue;">Prompting</span><br></div>
+                <div class="w3-small w3-text-yellow">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>                    
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>                
+                <div>
+                    <span class="">Los prompts son la forma en que los humanos pueden hablar con las IA. Es una forma de decirle a la Inteligencia Artificial qué queremos y cómo lo queremos a través de indicaciones.</span></div>
+                <div><span><br></span></div>
+
                 <div><span style="color: blue;">Angular</span><br></div>
                 <div class="w3-small w3-text-yellow">
                     <i class="fa fa-star"></i>
@@ -44,18 +92,6 @@ const template = /*html*/`
                     <i class="fa fa-star-o"></i>
                 </div>                
                 <div><span class=""> React es una librería de JavaScript creada por Meta para la construcción de interfaces de usuario. </span></div>
-                <div><span><br></span></div>
-
-                <div><span style="color: blue;">Vanilla js</span><br></div>
-                <div class="w3-small w3-text-yellow">
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>                    
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star-half-o"></i>
-                    <i class="fa fa-star-o"></i>
-                </div>                
-                <div>
-                    <span class="">Vanilla JS es un framework rápido, ligero y multiplataforma para construir aplicaciones JavaScript poderozas e increibles. Básicamente es Javascript puro.</span></div>
                 <div><span><br></span></div>
 
                 <div><span style="color: blue;">Css3</span><br></div>
