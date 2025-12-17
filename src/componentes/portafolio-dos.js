@@ -31,6 +31,16 @@ const template = /*html*/`
                 <video id="video" propiedades="" src="./video/ejemplo-edicion.webm" controls="controls" style="width: 180px;" contenido-componente="">        
                 </video>
                 <div><span><br></span></div>
+                <div><span style="color: blue;">Metube</span></div>
+                <div><img src="./img/metube.png" style="width: 20px"> <a  style="color: green;">Metube</a><br></div>
+                <div class="parrafo">
+                    <div>
+                    Cree un clon de youtube para compartir video en una red local, la razón es que en la zona de Candelaria Campeche contaba con un internet muy malo en el tiempo de pandemia y queria tener un servidor de video para compartir videos de youtube entre la familia.
+                    </div>
+                </div>
+                <video id="video" propiedades="" src="./video/metube.webm" controls="controls" style="width: 180px;" contenido-componente="">        
+                </video>
+                <div><span><br></span></div>
                 <div><span style="color: blue;">try-codding</span></div>                
                 <div><img src="./img/try-coding.svg" style="width: 20px"> <a href="https://saulsalazarmendez.github.io/ejemplos/try-coding/" style="color: green;" target="_blank">try-codding</a><br></div>
                 <div><span>Cree un editor de código para hacer pruebas rápidas de javascript, css y html. Sirve para compartir código y es lo que utilizo para los demos de npm.</span></div>
@@ -38,11 +48,11 @@ const template = /*html*/`
                 <div><span><br></span></div>
                 <div><span style="color: blue;">Recetario</span></div>                
                 <div><img src="./img/fruta.svg" style="width: 20px"> <a href="https://saulsalazarmendez.github.io/ejemplos/recetario/" style="color: green;" target="_blank">Recetario</a><br></div>
-                <div><span>Cree un recetario en React solo para saber algonos datos básicos de la comida. Lo interezante es que aprendi a hacer un tour sobre la aplicación.</span></div>
+                <div><span>Cree un recetario en React solo para saber algonos datos básicos de la comida. Lo interezante es que aprendi a hacer un tour desde cero usando js sobre la aplicación.</span></div>
                 <imagen url="./img/recetas.png" />
                 <div><span><br></span></div>
                 <div><span style="color: blue;">tour-web</span></div>
-                <div><img src="./img/npm.png" style="width: 20px"> <a href="https://www.npmjs.com/package/tour-web" style="color: green;" target="_blank">https://www.npmjs.com/package/crud-indexeddb</a><br></div>
+                <div><img src="./img/npm.png" style="width: 20px"> <a href="https://www.npmjs.com/package/tour-web" style="color: green;" target="_blank">https://www.npmjs.com/package/tour-web</a><br></div>
                 <div><span>Una librería para dar tour en aplicaciones web. Esta herramienta la cree por necesidad, dado que las otras librerias dejaban colgado a las app React</span></div>
                 <div><span><br></span></div>
                 <div><span style="color: blue;">crud-indexeddb</span></div>

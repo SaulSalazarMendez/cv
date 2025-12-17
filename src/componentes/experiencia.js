@@ -13,13 +13,27 @@ const template = /*html*/`
                 <div class="w3-small"><span style="color: rgb(96, 125, 139);">Mas de 10 000 registros</span></div>
                 <div><br></div>
 
-                <div><span style="color: blue;">Desarrollo en pandemia(Campeche)</span><br></div>
+                <div><span style="color: blue;">Front End Developer(Angular) / Evomatik(Campeche)</span><br></div>
                 <div class="w3-text-green">
-                    <i class="fa fa-calendar"></i> Feb 2020 - Ene 2023
+                    <i class="fa fa-calendar"></i> 2025 - Actualidad
                 </div>                
                 <div>
                     <ul>
-                    <li>En mis tiempos libres me dedique hacer diferentes aplicaciones como un escritorio web, una herramienta RAD para crear web componentes, un editor de código estilo codepen y un recetario que calcula las calorias, carbohidratos y proteinas</li>
+                    <li>En cargado del desarrollo web de la aplicación Punto único de acesso del Imss(PUA) y apoyo en la actualización del sistema de Imss para el gobierno de México.</li>
+                    <li>Se apoyo en el desarrollo y mantenimineto de la aplicación de preve Imss.</li>
+                    <li>Se creo y desarrollo el proyecto PUA desde cero usando prototipos de Figma, el gran reto fue adaptar Bootstrap para que funcionara como han estado trabajando en otros proyectos.</li>
+                    </ul> 
+                    
+                    
+                </div><br>
+                
+                <div><span style="color: blue;">Desarrollo en pandemia(Campeche)</span><br></div>
+                <div class="w3-text-green">
+                    <i class="fa fa-calendar"></i> Feb 2020 - 2024
+                </div>                
+                <div>
+                    <ul>
+                    <li>En mis tiempos libres me dedique hacer diferentes aplicaciones como un escritorio web, una herramienta RAD para crear web componentes, un clon de youtube con red local, una app para tener television offline con red local, un editor de código estilo codepen y un recetario que calcula las calorias, carbohidratos y proteinas</li>
                     <li>Cree algunas librerías que necesitaba para las aplicaciones anteriores y las aloje en npm.</li>
                     </ul> 
                     
