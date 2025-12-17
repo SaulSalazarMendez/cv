@@ -2,7 +2,7 @@ const template = /*html*/`
 <div>
     <div class="w3-bar w3-white">                                
         <div class="w3-dropdown-hover w3-right" style="border-radius: 50%;">
-            <button class="w3-button  w3-white" style="border-radius: 50%;" @click="activo=!activo"><i class="fa fa-th"></i></button>
+            <button class="w3-button  w3-white" style="border-radius: 50%;" @click="activo=!activo"><img src="./img/dot.svg"></button>
             <div v-if="activo" class="w3-dropdown-content w3-card-4 w3-round" style="right:10px; padding: 8px 6px; display: block;">
                 <rutas-apps></rutas-apps>
             </div>
