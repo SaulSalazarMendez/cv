@@ -1,6 +1,6 @@
 const template = /*html*/`
 <div class="w3-row">
-    <div class="w3-center w3-padding w3-col s6">
+    <div class="w3-center w3-padding w3-col s6 icon-app">
     <a href="https://saulsalazarmendez.github.io/ejemplos/try-coding/" target="_blank">
         <span class="w3-button w3-circle w3-blue">
             <i class="fa fa-html5"></i>
@@ -8,7 +8,7 @@ const template = /*html*/`
         <h5 style="font-size: 14px;">Try-coding</h5>
     </a>
     </div>
-    <div class="w3-center w3-padding w3-col s6">
+    <div class="w3-center w3-padding w3-col s6 icon-app">
     <a href="https://saulsalazarmendez.github.io/ejemplos/desk-js/" target="_blank">
         <span class="w3-button w3-circle w3-red">
             <i class="fa fa-window-maximize"></i>
@@ -16,7 +16,7 @@ const template = /*html*/`
         <h5 style="font-size: 14px;">Desk-js</h5>
     </a>
     </div>
-    <div class="w3-center w3-padding w3-col s6">
+    <div class="w3-center w3-padding w3-col s6 icon-app">
     <a href="https://saulsalazarmendez.github.io/ejemplos/w3studio/" target="_blank">
         <span class="w3-button w3-circle w3-yellow">
             <i class="fa fa-list-alt "></i>
@@ -25,7 +25,7 @@ const template = /*html*/`
     </a>
     </div>
 
-    <div class="w3-center w3-padding w3-col s6">
+    <div class="w3-center w3-padding w3-col s6 icon-app">
     <a href="./cv2.pdf" target="_blank">
         <span class="w3-button w3-circle w3-blue">
             <i class="fa fa-file-pdf-o"></i>

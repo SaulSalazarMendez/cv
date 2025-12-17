@@ -36,3 +36,19 @@
     }
 }
 
+
+button{
+    transition: background 0.5s;
+}
+
+.icon-app{
+    border-radius: 20px;
+    transition: background 0.5s;
+    width: calc(100% - 2px);
+    cursor: pointer;
+}
+
+.icon-app:hover{
+    border-radius: 20px;
+    background: #d8d8d8;;
+}

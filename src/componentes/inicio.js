@@ -1,9 +1,9 @@
 const template = /*html*/`
 <div>
     <div class="w3-bar w3-white">                                
-        <div class="w3-dropdown-hover w3-right">
-            <button class="w3-button  w3-white"><i class="fa fa-th"></i></button>
-            <div class="w3-dropdown-content w3-card-4 w3-round" style="right:10px;">
+        <div class="w3-dropdown-hover w3-right" style="border-radius: 50%;">
+            <button class="w3-button  w3-white" style="border-radius: 50%;" @click="activo=!activo"><i class="fa fa-th"></i></button>
+            <div v-if="activo" class="w3-dropdown-content w3-card-4 w3-round" style="right:10px; padding: 8px 6px; display: block;">
                 <rutas-apps></rutas-apps>
             </div>
         </div>        
@@ -21,7 +21,7 @@ const template = /*html*/`
         <div class="w3-col s10 m8 l6">
             <div class="w3-block w3-border w3-round-xxlarge w3-padding">
                 <i class="fa fa-search"></i>
-                <input id="buscador" style="outline: none; border: none; width: 80%;">                    
+                <input id="buscador" style="outline: none; border: none; width: 80%;" readonly>                    
             </div>
         </div>
     </div>    
@@ -32,6 +32,11 @@ import RutasApps from './rutas-apps.js';
 import { setTituloPagina } from './util.js';
 
 export default {    
+    data() {
+        return {
+            activo: false
+        }
+    },
     template: template,
     mounted() {
         this.addListeners();
