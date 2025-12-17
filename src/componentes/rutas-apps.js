@@ -26,7 +26,7 @@ const template = /*html*/`
     </div>
 
     <div class="w3-center w3-padding w3-col s6 icon-app">
-    <a href="./cv2.pdf" target="_blank">
+    <a href="./cv3.pdf" target="_blank">
         <span class="w3-button w3-circle w3-blue">
             <i class="fa fa-file-pdf-o"></i>
         </span>
